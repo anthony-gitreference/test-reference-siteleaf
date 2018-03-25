@@ -1,6 +1,11 @@
 ---
 title: Triceratops
 date: 2018-03-25 18:59:00 Z
+Order: Ornithischia
+Family: Ceratopsidae
+Subfamily: Chasmosaurinae
+Tribe: Triceratopsini
+Genus: Triceratops
 ---
 
 Triceratops, genus of four-legged, plant-eating dinosaurs (see Dinosaur) that lived during the Cretaceous Period, more than 65 million years ago. Triceratops had three horns on its skull—one on its snout and one above each eye. The name is derived from the Greek words treis, “three”; kerat, “horn”; and ops, “face.” Triceratops was one of the largest horned dinosaurs. The animal’s other defining features include a beak and a neck shield, or frill. Triceratops belonged to a diverse group of ornithischian (“bird-hipped”) dinosaurs called ceratopsians (“horn-face”), which populated North America and Asia toward the end of the age of dinosaurs. Many skulls have been recovered from sediments that floods deposited 67 million to 65 million years ago on low, coastal plains near a seaway that covered the interior of the United States and Canada.
