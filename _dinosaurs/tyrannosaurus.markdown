@@ -1,6 +1,7 @@
 ---
 title: Tyrannosaurus
 date: 2018-03-25 17:28:00 Z
+published: false
 ---
 
 Tyrannosaurus[nb 1] is a genus of coelurosaurian theropod dinosaur. The species Tyrannosaurus rex (rex meaning "king" in Latin) is one of the most well-represented of the large theropods. Tyrannosaurus lived throughout what is now western North America, on what was then an island continent known as Laramidia. Tyrannosaurus had a much wider range than other tyrannosaurids. Fossils are found in a variety of rock formations dating to the Maastrichtian age of the upper Cretaceous Period, 68 to 66 million years ago.[2] It was the last known member of the tyrannosaurids,[3] and among the last non-avian dinosaurs to exist before the Cretaceous–Paleogene extinction.
