@@ -28,8 +28,12 @@ defaults:
     type: dinosaurs
   values:
     layout: page
-    colors:
-    - red
-    - green
-    - blue
+    Kingdom: Animalia
+    Phylum: Chordata
+    Clade: Dinosauria
+    Order:
+    Family:
+    Subfamily:
+    Tribe:
+    Genus:
 permalink: pretty
