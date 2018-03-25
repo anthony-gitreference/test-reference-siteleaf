@@ -1,6 +1,7 @@
 ---
 title: Diplodocus
 date: 2018-03-25 18:58:00 Z
+position: 2
 Order: "\tSaurischia"
 Family: Diplodocidae
 Subfamily: Diplodocinae

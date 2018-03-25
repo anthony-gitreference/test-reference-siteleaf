@@ -1,6 +1,7 @@
 ---
 title: Tyrannosaurus
 date: 2018-03-25 17:28:00 Z
+position: 3
 Order: Saurischia
 Family: Tyrannosauridae
 Subfamily: Tyrannosaurinae

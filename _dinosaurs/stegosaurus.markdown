@@ -1,6 +1,7 @@
 ---
 title: Stegosaurus
 date: 2018-03-25 18:56:00 Z
+position: 1
 Order: Ornithischia
 Family: Stegosauridae
 Subfamily: Stegosaurinae

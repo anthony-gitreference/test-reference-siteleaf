@@ -1,6 +1,7 @@
 ---
 title: Triceratops
 date: 2018-03-25 18:59:00 Z
+position: 4
 Order: Ornithischia
 Family: Ceratopsidae
 Subfamily: Chasmosaurinae
