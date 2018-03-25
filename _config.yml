@@ -31,9 +31,9 @@ defaults:
     Kingdom: Animalia
     Phylum: Chordata
     Clade: Dinosauria
-    Order:
-    Family:
-    Subfamily:
-    Tribe:
-    Genus:
+    Order: 
+    Family: 
+    Subfamily: 
+    Tribe: 
+    Genus: 
 permalink: pretty
