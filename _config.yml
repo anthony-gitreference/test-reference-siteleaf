@@ -24,12 +24,9 @@ defaults:
   values:
     layout: page
 - scope:
-    path: _dinosaurs
-    type: pages
+    path: "_dinosaurs"
+    type: "dinosaurs"
   values:
     layout: page
-    colors:
-    - red
-    - green
-    - blue
+    colors: ["red", "green", "blue"]
 permalink: pretty
