@@ -1,6 +1,10 @@
 ---
 title: Stegosaurus
 date: 2018-03-25 18:56:00 Z
+Order: Ornithischia
+Family: Stegosauridae
+Subfamily: Stegosaurinae
+Genus: Stegosaurus
 ---
 
 Stegosaurus, genus of plant-eating ornithischian (bird-hipped) dinosaurs known for the large triangular plates along the crest of the back. Stegosaurus’s armor accounts for its name, which is derived from the Greek words stego, 'cover,' and sauros, 'lizard.' These plates, as well as a number of spikes on the tail, render Stegosaurus one of the most recognizable of all dinosaurs. It lived on low plains in the interior of North America, Europe, Africa, and Asia during the late Jurassic Period, about 150 million years ago. 
