@@ -23,4 +23,17 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: _dinosaurs
+    type: dinosaurs
+  values:
+    layout: page
+    Kingdom: Animalia
+    Phylum: Chordata
+    Clade: Dinosauria
+    Order: 
+    Family: 
+    Subfamily: 
+    Tribe: 
+    Genus: 
 permalink: pretty

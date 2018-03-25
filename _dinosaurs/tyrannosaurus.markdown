@@ -1,9 +1,14 @@
 ---
 title: Tyrannosaurus
 date: 2018-03-25 17:28:00 Z
+Order: Saurischia
+Family: Tyrannosauridae
+Subfamily: Tyrannosaurinae
+Tribe: Tyrannosaurini
+Genus: Tyrannosaurus
 ---
 
-Tyrannosaurus, name of a genus (group) of large, two-legged, meat-eating dinosaurs that lived in the late Cretaceous Period, about 65 million years ago. The name Tyrannosaurus is derived from the Greek words tyrannos, “tyrant,” and sauros, “lizard.” Instantly recognizable by their size, upright posture, serrated (jagged) teeth, and small, two-fingered forelimbs, Tyrannosaurus were some of the largest meat-eating land animals that ever existed.
+Tyrannosaurus, the name of a genus (group) of large, two-legged, meat-eating dinosaurs that lived in the late Cretaceous Period, about 65 million years ago. The name Tyrannosaurus is derived from the Greek words tyrannos, “tyrant,” and sauros, “lizard.” Instantly recognizable by their size, upright posture, serrated (jagged) teeth, and small, two-fingered forelimbs, Tyrannosaurus were some of the largest meat-eating land animals that ever existed.
 
 Scientists know more about Tyrannosaurus than they do about any other predatory dinosaur. They have found dozens of skeletons of these giant saurischians (“lizard-hipped” dinosaurs), mainly throughout the western United States and Canada. Tyrannosaurus may also have lived in Mongolia. A particularly large and complete skeleton named Sue is on display at the Field Museum in Chicago. Another fossilized Tyrannosaurus, discovered in Montana, was so well preserved that blood vessels and other soft tissue remained within its thighbone. Researchers reported in 2007 that they had isolated protein fragments from the soft tissue and had found amino acid sequences similar to those in modern chickens.
 
@@ -11,7 +16,7 @@ Tyrannosaurus are members of the family Tyrannosauridae, in the suborder Theropo
 
 The earliest ancestors of tyrannosaurids appear to have been small, lightly built meat-eating dinosaurs called coelurosaurs that lived during the late Jurassic and early Cretaceous periods. Tyrannosaurids are not closely related to other large meat-eating dinosaurs such as Allosaurus or Giganotosaurus. Fossils thought to be the ancestors of tyrannosaurids have been found in Asia and in Europe. One of these small dinosaurs discovered in northeastern China was named Dilong. It was about 1.6 m (5 ft) long. Some of its remains were preserved with what appear to be featherlike structures on parts of its body.
 
-Tyrannosaurus were among the largest flesh-eating terrestrial animals, exceeded in size only by Giganotosaurus and Carcharodontosaurus. Mapusaurus and Spinosaurus may also have been larger than Tyrannosaurus. Tyrannosaurus reached 12.5 m (41 ft) in length and 5 m (16 ft) in height, and weighed more than 5 metric tons. The skull of a Tyrannosaurus was large and flexible but also had fused bones to help brace its extremely powerful bite. Its bone-crushing bite was probably more powerful than that of any other flesh-eating dinosaur. The bridge of the nose contained wartlike knobs and pits.
+Tyrannosaurus was among the largest flesh-eating terrestrial animals, exceeded in size only by Giganotosaurus and Carcharodontosaurus. Mapusaurus and Spinosaurus may also have been larger than Tyrannosaurus. Tyrannosaurus reached 12.5 m (41 ft) in length and 5 m (16 ft) in height, and weighed more than 5 metric tons. The skull of a Tyrannosaurus was large and flexible but also had fused bones to help brace its extremely powerful bite. Its bone-crushing bite was probably more powerful than that of any other flesh-eating dinosaur. The bridge of the nose contained wartlike knobs and pits.
 
 The animals had a broad field of vision. However, some scientists think Tyrannosaurus may have been able to focus its eyes directly to the front, permitting a degree of binocular vision and depth perception. One recent study even suggested that their large eyes could have been more acute than those of eagles or hawks. The brain of Tyrannosaurus was proportionately slightly larger in size than that of a modern crocodile. Although there were well developed areas for smell and sight, it is not certain that such a brain would have allowed Tyrannosaurus to see as well as modern predatory birds.
 
