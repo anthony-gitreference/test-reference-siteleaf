@@ -1,6 +1,11 @@
 ---
 title: Tyrannosaurus
 date: 2018-03-25 17:28:00 Z
+Order: Saurischia
+Family: Tyrannosauridae
+Subfamily: Tyrannosaurinae
+Tribe: Tyrannosaurini
+Genus: Tyrannosaurus
 ---
 
 Tyrannosaurus, the name of a genus (group) of large, two-legged, meat-eating dinosaurs that lived in the late Cretaceous Period, about 65 million years ago. The name Tyrannosaurus is derived from the Greek words tyrannos, “tyrant,” and sauros, “lizard.” Instantly recognizable by their size, upright posture, serrated (jagged) teeth, and small, two-fingered forelimbs, Tyrannosaurus were some of the largest meat-eating land animals that ever existed.
