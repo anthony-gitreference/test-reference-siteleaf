@@ -1,4 +1,4 @@
-﻿---
+---
 title: Coelophysis
 date: 2018-03-25 18:59:00 Z
 position: 5
