@@ -6,8 +6,11 @@ Order: Saurischia
 Family: Coelophysidae
 Genus: Coelophysis
 ---
+# Coelophysis
 
 Coelophysis (Greek for “hollow form”), small, meat-eating, early dinosaur that lived in the eastern and southwestern United States in the late Triassic Period (about 231 million to 213 million years before present). A member of the suborder Theropoda, Coelophysis was a slender, graceful, fast predator with long jaws filled with curved daggerlike teeth. It grew to a length of up to 3 m (10 ft) and probably ran on two or four legs. It inhabited highland forest areas.
+
+## Discovery
 
 In December 1880 American dinosaur-fossil-hunter David Baldwin discovered a few fragmented bones in a dried-up river bed near Ghost Ranch, New Mexico. In 1947 and again in 1980 the site was reopened and many complete skeletons were found. Paleontologists estimate that several thousand dinosaur fossils have yet to be excavated from this site.
 
